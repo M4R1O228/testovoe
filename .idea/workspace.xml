@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c33d8e27-de5d-4291-82ed-b4194e58f0a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testovoe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/control/account.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/control/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/control/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/AccountController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/AdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Account.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/account/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/account/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/account/notes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/account/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/account/signin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/account/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/panel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/main/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/main/question.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/main/questions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fluid.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap.min.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="20C7CypTBgAJD1MjL1bEG0rfz8t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/main" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\testovoe" />
+      <recent name="D:\OSPanel\domains\testovoe\app\public\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\testovoe\app\views\main" />
+      <recent name="D:\OSPanel\domains\testovoe\app\models" />
+      <recent name="D:\OSPanel\domains\testovoe\app\views\admin" />
+      <recent name="D:\OSPanel\domains\testovoe\public\styles" />
+      <recent name="D:\OSPanel\domains\testovoe\app\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c33d8e27-de5d-4291-82ed-b4194e58f0a7" name="Default Changelist" comment="" />
+      <created>1635536591133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635536591133</updated>
+      <workItem from="1635536592207" duration="1000" />
+      <workItem from="1635536600895" duration="13083000" />
+      <workItem from="1635612480623" duration="17762000" />
+      <workItem from="1635705784923" duration="22088000" />
+      <workItem from="1635775473701" duration="33778000" />
+      <workItem from="1635875938535" duration="24927000" />
+      <workItem from="1635966661708" duration="7216000" />
+      <workItem from="1636048374972" duration="18090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
